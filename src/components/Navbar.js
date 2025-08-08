@@ -57,7 +57,7 @@ export default function Navbar() {
           {/* Small Screen: Book a Table Button */}
           <div className="md:hidden">
             <a
-              href="#book"
+              href="/book"
               className="bg-black text-white text-sm font-forum px-4 py-2 rounded-full shadow-md hover:bg-yellow-500 hover:text-black transition-colors"
             >
               Book a Table

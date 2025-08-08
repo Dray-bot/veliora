@@ -14,6 +14,7 @@ const nextConfig = {
             'www.framer.com',
             'media.istockphoto.com',
             'www.freepik.com',
+            'thumbs.dreamstime.com'
         ],
     },
 };

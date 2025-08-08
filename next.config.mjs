@@ -12,7 +12,8 @@ const nextConfig = {
             'media.timeout.com',
             'meraki-restaurant.com',
             'www.framer.com',
-            'media.istockphoto.com'
+            'media.istockphoto.com',
+            'www.freepik.com',
         ],
     },
 };

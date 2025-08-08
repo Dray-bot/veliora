@@ -73,7 +73,7 @@ export default function MenuPage() {
       <div className="w-full md:w-1/2 h-96 md:h-screen p-4 md:sticky md:top-0">
         <div className="relative w-full h-full overflow-hidden rounded-lg">
           <Image
-            src="https://images.stockcake.com/public/5/1/a/51a8f4b1-1e4d-4ab8-8811-75c41dde2be4/steaming-gourmet-creation-stockcake.jpg"
+            src="https://img.freepik.com/free-photo/view-ready-eat-delicious-meal-go_23-2151431723.jpg?semt=ais_hybrid&w=740&q=80"
             alt="Food Preview"
             fill
             className="object-cover transition-all duration-700 ease-in-out"

@@ -96,7 +96,7 @@ export default function AboutPage() {
             </ul>
           </div>
 
-          <Link href="/book-a-table" passHref>
+          <Link href="/book" passHref>
             <motion.div
               whileHover={{ scale: 1.02 }}
               className="bg-zinc-800 border border-white/20 rounded-md text-center py-3 px-10 text-white text-base font-semibold cursor-pointer shadow hover:shadow-xl transition inline-flex items-center justify-center gap-2 select-none"
